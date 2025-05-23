@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Team Standup",
+    "date": "2023-11-15",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "description": "Daily team sync meeting"
+  },
+  {
+    "id": 2,
+    "title": "Client Meeting",
+    "date": "2023-11-15",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#10b981",
+    "description": "Project review with client"
+  },
+  {
+    "id": 3,
+    "title": "Lunch Break",
+    "date": "2023-11-16",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "color": "#f59e0b",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Code Review",
+    "date": "2023-11-16",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#8b5cf6",
+    "description": "PR review session"
+  }
+]
